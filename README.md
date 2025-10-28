@@ -10,6 +10,8 @@ Additionally, while I’ve included try-catch blocks in the controllers for simp
 A few unit tests have been added for the Application layer to demonstrate how testing is structured in this project.
 Similar tests can be written for other layers. Integration tests can be introduce to validate the actual API endpoints.
 
+Git hub action is in place to build and run tests
+
 ## Usage
 
 1. First, call the api/DataAdmin/seed endpoint to populate the database with some sample data.
